@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://benia.netlify.app/](https://benia.netlify.app/)
 
-- 📝 I regularly write articles on [https://benia.netlify.app/](https://benia.netlify.app/)
+- 📝 I regularly write articles on [nearvic.com](https://nearvic.com/)
 
 - 💬 Ask me about **Java, Rust, Python, Nodejs, Kotlin, Go**
 
