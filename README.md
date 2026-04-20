@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Yahia Mohamed Benabbou</h1>
-<h3 align="center">DevOps & DevSecOps Engineer | Cloud | Kubernetes | Automation</h3>
+<h3 align="center">DevOps & DevSecOps Engineer | Cloud | Kubernetes | Platform Engineering</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=beniaxcode&label=Profile%20views&color=0e75b6&style=flat" />
@@ -9,51 +9,70 @@
 
 ## 🧠 About Me
 
-I'm a DevOps & DevSecOps Engineer focused on building:
+DevOps & DevSecOps Engineer with strong experience in:
 
-- ⚙️ Scalable cloud infrastructure  
-- 🔐 Secure CI/CD pipelines  
-- ☁️ Cloud-native applications  
-- 🧱 Kubernetes-based platforms  
+- ☁️ Multi-cloud environments (AWS, Azure, OCI, GCP)  
+- ⚙️ CI/CD automation & infrastructure as code  
+- 🔐 Cloud security, platform hardening, and compliance  
+- 🧱 Kubernetes platforms & distributed systems  
 
-I enjoy working on systems where **automation, reliability, and security meet**.
-
----
-
-## 🚀 What I Work On
-
-- Cloud Infrastructure (AWS / Azure / OCI)
-- CI/CD pipelines & automation
-- Kubernetes & container orchestration
-- Infrastructure as Code (Terraform, Ansible)
-- DevSecOps (security in pipelines & runtime)
-- Monitoring & Observability (Prometheus, Grafana)
+I work on **production-grade systems** with focus on:
+> reliability, scalability, and security by design  
 
 ---
 
-## 🧰 Tech Stack
+## 🚀 What I Do
 
-### ☁️ Cloud & DevOps
+- Design & operate **cloud-native platforms**
+- Build **secure CI/CD pipelines**
+- Automate infrastructure using **Terraform & Ansible**
+- Implement **DevSecOps practices**
+- Manage **Kubernetes clusters at scale**
+- Build **observability systems (metrics, logs, tracing)**
+
+---
+
+## 🧰 Tech Stack (From Real Experience)
+
+### ☁️ Cloud Platforms
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/>
+</p>
+
+### ⚙️ DevOps & Automation
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="40"/>
 </p>
 
 ### 🔐 DevSecOps & Security
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/nginx/nginx-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40"/>
 </p>
 
-### 💻 Programming
+### 📊 Observability & Monitoring
+<p>
+  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="40"/>
+</p>
+
+### 💻 Programming & Scripting
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40"/>
 </p>
 
 ---
@@ -91,6 +110,15 @@ I enjoy working on systems where **automation, reliability, and security meet**.
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Experience Snapshot
 
-I enjoy building systems with **Rust, Go, and cloud-native technologies** 🚀
+- Multi-cloud DevOps & security engineering (AWS, OCI, Azure)  
+- Kubernetes platforms with **production workloads (fintech)**  
+- Infrastructure automation reducing deployment time by **70%**  
+- Observability & monitoring for **high-availability systems (99.9%)**  
+
+---
+
+## ⚡ Philosophy
+
+> Build systems that are scalable, observable, and secure — by design.
