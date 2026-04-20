@@ -55,11 +55,29 @@ I work on **production-grade systems** with focus on:
 
 ### 🔐 DevSecOps & Security
 <p>
+  <!-- Linux -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/nginx/wazuh-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/cloudflare.svg" width="40"/>
-   <img src="https://www.vectorlogo.zone/logos/apache_kafka/sonarqube.svg" width="40"/>
-  
+
+  <!-- NGINX -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40"/>
+
+  <!-- Docker (container security context) -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
+
+  <!-- Kubernetes (security + orchestration) -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40"/>
+
+  <!-- Vault (secrets management - VERY relevant) -->
+  <img src="https://www.vectorlogo.zone/logos/hashicorp_vault/hashicorp_vault-icon.svg" width="40"/>
+
+  <!-- Prometheus (monitoring / security visibility) -->
+  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40"/>
+
+  <!-- Grafana -->
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40"/>
+
+  <!-- Elastic (logging / SIEM context) -->
+  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="40"/>
 </p>
 
 ### 📊 Observability & Monitoring
