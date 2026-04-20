@@ -56,8 +56,10 @@ I work on **production-grade systems** with focus on:
 ### 🔐 DevSecOps & Security
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/nginx/nginx-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/nginx/wazuh-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/cloudflare.svg" width="40"/>
+   <img src="https://www.vectorlogo.zone/logos/apache_kafka/sonarqube.svg" width="40"/>
+  
 </p>
 
 ### 📊 Observability & Monitoring
