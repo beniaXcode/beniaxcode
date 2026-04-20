@@ -1,110 +1,96 @@
-<h1 align="center">👋 Yahia Mohamed Benabbou</h1>
-<h3 align="center">Cloud Security Architect | DevSecOps | Platform Engineering</h3>
+<h1 align="center">👋 Hi, I'm Yahia Mohamed Benabbou</h1>
+<h3 align="center">DevOps & DevSecOps Engineer | Cloud | Kubernetes | Automation</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=beniaxcode&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
 ## 🧠 About Me
 
-I design and build **secure, scalable cloud systems**.
+I'm a DevOps & DevSecOps Engineer focused on building:
 
-My work sits at the intersection of:
-- ☁️ Cloud Architecture (AWS, Azure, OCI)
-- 🔐 Cloud Security & DevSecOps
-- ⚙️ Platform Engineering & SRE
+- ⚙️ Scalable cloud infrastructure  
+- 🔐 Secure CI/CD pipelines  
+- ☁️ Cloud-native applications  
+- 🧱 Kubernetes-based platforms  
 
-I focus on **engineering-driven security**:
-> Not audits. Not theory.  
-> I build systems that are secure by design.
+I enjoy working on systems where **automation, reliability, and security meet**.
 
 ---
 
-## 🚀 What I Do
+## 🚀 What I Work On
 
-- Architect **secure multi-cloud environments**
-- Build **DevSecOps pipelines with automated security**
-- Design **Kubernetes security platforms**
-- Implement **compliance & policy-as-code systems**
-- Develop **platform engineering foundations (CI/CD, IaC, observability)**
-
----
-
-## 🧱 Key Projects (Portfolio)
-
-### 🔐 KubeArmor — Kubernetes Security Platform
-- RBAC hardening, network policies, runtime security
-- Falco + Kyverno integration
-- Compliance & observability dashboards
-
----
-
-### ☁️ CloudGuard — AWS Security Landing Zone
-- Multi-account architecture (Organizations + SCPs)
-- GuardDuty, Security Hub, Config Rules
-- Automated remediation (Lambda + Terraform)
-
----
-
-### ⚙️ SecurePipeline — DevSecOps Framework
-- CI/CD with integrated:
-  - SAST (Semgrep)
-  - SCA
-  - IaC scanning (Checkov)
-  - Secrets detection (Gitleaks)
-- Security gates without blocking developers
-
----
-
-### 📊 ComplianceEngine — Compliance Automation
-- SOC2 / PCI DSS / ISO27001 mapping
-- Policy-as-code (OPA)
-- Audit-ready dashboards
-
----
-
-### 🛡️ CloudSentinel — Detection Engineering Platform
-- MITRE ATT&CK mapping
-- Cloud-native detection rules
-- Automated alerting pipelines
+- Cloud Infrastructure (AWS / Azure / OCI)
+- CI/CD pipelines & automation
+- Kubernetes & container orchestration
+- Infrastructure as Code (Terraform, Ansible)
+- DevSecOps (security in pipelines & runtime)
+- Monitoring & Observability (Prometheus, Grafana)
 
 ---
 
 ## 🧰 Tech Stack
 
-### ☁️ Cloud
-AWS • Azure • OCI
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+</p>
 
-### 🔐 Security
-Kubernetes Security • DevSecOps • IAM • Zero Trust • Policy-as-Code
+### 🔐 DevSecOps & Security
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/nginx/nginx-original.svg" width="40"/>
+</p>
 
-### ⚙️ DevOps / Platform
-Kubernetes • Terraform • Docker • CI/CD • GitHub Actions • Jenkins
-
-### 🧠 Languages
-Go • Python • Rust • Node.js
+### 💻 Programming
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+</p>
 
 ---
 
-## 📈 What I’m Focused On
+## 📊 GitHub Stats
 
-- Becoming a **Cloud Security Architect (short-term)**
-- Building **high-impact security platforms**
-- Scaling into **consulting & architecture roles globally**
-- Long-term → **Security Leadership (CISO path)**
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=beniaxcode&show_icons=true&theme=default" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=beniaxcode&layout=compact" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beniaxcode" />
+</p>
 
 ---
 
 ## 🌍 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/yahia-mohamed-benabbou
-- 🧠 Blog: https://nearvic.com/
+<p>
+  <a href="https://linkedin.com/in/yahia-mohamed-benabbou">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30"/>
+  </a>
+  <a href="https://twitter.com/yahiamohamedbe1">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="30"/>
+  </a>
+</p>
+
 - 🌐 Portfolio: https://benia.netlify.app/
+- 🧠 Blog: https://nearvic.com/
 - 📫 Email: y.m.benabbou@gmail.com
 
 ---
 
-## ⚡ Philosophy
+## ⚡ Fun Fact
 
-> Security is not a tool.  
-> It’s an architecture, a system, and a mindset.
-
----
+I enjoy building systems with **Rust, Go, and cloud-native technologies** 🚀
