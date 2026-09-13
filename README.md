@@ -124,7 +124,7 @@ I work on **production-grade systems** with focus on:
   </a>
 </p>
 
-- 🌐 Portfolio: https://benia.netlify.app/
+- 🌐 Portfolio: https://profile.nearvic.com/
 - 🧠 Blog: https://nearvic.com/
 - 📫 Email: y.m.benabbou@gmail.com
 
